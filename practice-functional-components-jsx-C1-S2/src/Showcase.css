@@ -1,0 +1,24 @@
+.firstStyle {
+  background-color: #008000;
+  color: #ffffff;
+}
+
+.secondStyle {
+  background-color: #ffffff;
+  color: #008000;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  scroll-behavior: smooth;
+}
+
+.img {
+  height: 600px;
+  width: 600px;
+  border-radius: 50%;
+  margin: 20px auto;
+}
