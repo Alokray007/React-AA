@@ -28,3 +28,9 @@ To begin working on the projects in this repository, follow these steps:
    ```sh
    git clone https://github.com/your-username/React-AA.git
 
+   cd react-projects-repo/projects/project-name
+
+   npm install
+
+   npm start
+
